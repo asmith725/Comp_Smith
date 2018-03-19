@@ -1,0 +1,6 @@
+This project analyzes images obtained from the Lecia SP8 STED microscope. 
+
+Our lab is trying to determine the relationship between two DNA damage repair proteins, Mei5 and Sae3, and how they relate to each other over time, potentially one being responsible for the recruitment of another. I collected samples of yeast during meiosis/sporulation, during which DNA damage and repair are active, the yeast were spheroplasted and the DNA spread on slides. The STED allows us to achieve super-high resolution, and visualize individual protein aggregates. 
+
+I have only included a set of six images, but I have used the macro and R code to analyze over 100 images I obtained. This data will be used in a publication, which is another reason I have only included six images. 
+
